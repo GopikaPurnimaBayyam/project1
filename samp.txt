@@ -1,2 +1,2 @@
-sample file 
-sample updated for b2
+branch b1 is created
+
